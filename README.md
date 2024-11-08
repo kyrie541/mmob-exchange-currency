@@ -5,6 +5,7 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Prequisites
 
 nodejs v20.11.1
+
 npm v10.2.4
 
 ## Project Setup
@@ -12,6 +13,10 @@ npm v10.2.4
 ```sh
 npm install
 ```
+
+## Add your exchange rate API key
+
+copy config.sample.js into config.js, then put in your access key
 
 ### Compile and Hot-Reload for Development
 
